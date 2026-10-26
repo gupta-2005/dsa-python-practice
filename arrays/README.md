@@ -12,6 +12,7 @@ using Python.
 | 2 | Maximum Element | Easy | [Code](maximum_element.py) |
 | 3 | Reverse Array | Easy | [Code](reverse_array.py) |
 | 4 | Best Time to Buy and Sell Stock | Easy | [Code](best_time_to_buy_sell_stock.py) |
+| 5 | Contains Duplicate | Easy | [Code](contains_duplicate.py) |
 
 
 ## Concepts Covered
