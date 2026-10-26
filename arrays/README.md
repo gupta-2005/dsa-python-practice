@@ -13,6 +13,7 @@ using Python.
 | 3 | Reverse Array | Easy | [Code](reverse_array.py) |
 | 4 | Best Time to Buy and Sell Stock | Easy | [Code](best_time_to_buy_sell_stock.py) |
 | 5 | Contains Duplicate | Easy | [Code](contains_duplicate.py) |
+| 6 | Maximum Subarray (Kadane's Algorithm) | Medium | [Code](maximum_subarray.py) |
 
 
 ## Concepts Covered
